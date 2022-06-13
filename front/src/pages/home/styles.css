@@ -1,0 +1,28 @@
+main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.tables{
+    margin:50px auto;
+    width: 70%;
+}
+
+main h1{
+    margin: auto;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap: 10px;
+    justify-content: center;
+}
+
+.field{
+    display: flex;
+    flex-direction: column;
+}

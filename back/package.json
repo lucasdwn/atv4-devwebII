@@ -1,0 +1,14 @@
+{
+  "name": "crud-atividade4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lucas ferreira da costa",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.16"
+  }
+}
